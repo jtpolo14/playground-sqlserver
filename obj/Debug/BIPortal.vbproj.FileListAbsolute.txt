@@ -1,0 +1,14 @@
+C:\Users\jorda\source\repos\BIPortal\bin\Debug\BIPortal.exe.config
+C:\Users\jorda\source\repos\BIPortal\bin\Debug\BIPortal.exe
+C:\Users\jorda\source\repos\BIPortal\bin\Debug\BIPortal.pdb
+C:\Users\jorda\source\repos\BIPortal\bin\Debug\BIPortal.xml
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.vbprojAssemblyReference.cache
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.Form1.resources
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.Inventory.resources
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.Resources.resources
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.vbproj.GenerateResource.cache
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.vbproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.exe
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.xml
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.pdb
+C:\Users\jorda\source\repos\BIPortal\obj\Debug\BIPortal.Sales.resources
